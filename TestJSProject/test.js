@@ -1,3 +1,6 @@
 /**
  * 
  */
+test = function(){
+	alert("Testowa...");
+};
